@@ -12,10 +12,10 @@ I'm a computer science student who is passionate about writing code, solving pro
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
   <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
 - 🛢 &nbsp;
@@ -33,7 +33,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <a href="https://www.linkedin.com/in/donovanwebp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/oswald.tg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:donovan.e.tg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="https://twitter.com/Donovan_webP"><img alt="Twitter" src="http://i.imgur.com/wWzX9uB.png"></a>
+<a href="https://twitter.com/Donovan_webP"><img alt="Twitter" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 
