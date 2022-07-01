@@ -29,11 +29,11 @@ I'm a computer science student who is passionate about writing code, solving pro
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.donovanwebp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/donovanwebp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/oswald.tg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:donovan.e.tg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="https://twitter.com/Donovan_webP"><img alt="Twitter" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.donovanwebp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.donovanwebp.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/donovanwebp/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Donovan%20Eliosa%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/oswald.tg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-oswald.tg-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:donovan.e.tg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-donovan.e.tg@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/Donovan_webP"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Donovan_webP-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 
